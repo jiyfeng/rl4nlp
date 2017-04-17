@@ -1,5 +1,7 @@
 # RL4NLP Reading Group
 
+- Location: CSE 203
+
 ## Schedule
 
 ### 1. RL Basic and MDP
