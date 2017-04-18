@@ -1,4 +1,4 @@
-# RL4NLP Reading Group
+# RL4NLP Reading Group (Spring 2017)
 
 - Location: CSE 203
 
@@ -9,6 +9,7 @@
 - Yangfeng
 - Time: April 17, Monday, 4:30 - 5:30 PM
 - Reading: [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Chap 01 and 03
+- Notes: [Chap 01](notes/01-rl-basic.md) and [Chap 03](notes/02-mdp.md)
 
 ### 2. Dynamic Programming and Monte Carlo Methods
 
