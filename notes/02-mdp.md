@@ -78,4 +78,4 @@ An [example](https://aclweb.org/anthology/D/D16/D16-1261.pdf) of using MDP for i
 ## Reference
 
 1. Mohri, Rostmizadeh, Talwalkar. Foundations of Machine Learning. 2012
-2. Kleinberg and Tardos. Algorithm Design. 2005
+2. Kleinberg and Tardos. [Chap 06 Dynamic Programming](../files/Chap06_Dynamic_Programming_in_Algorithm_Design_Kleinberg_Tardos.pdf), Algorithm Design. 2005
