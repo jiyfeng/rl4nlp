@@ -47,6 +47,6 @@
 ### 7. Semantic Parsing
 
 - Mandar
-- Time: May 15, Monday, 4:30 - 5:30 PM
+- Time: May 29, Monday, 4:30 - 5:30 PM
 - Suggested reading:
 
