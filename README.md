@@ -27,7 +27,13 @@
 
 - Yijia
 - Time: May 8, Monday, 4:30 - 5:30 PM
-- Suggested reading: some papers from Hal's group
+- Suggested reading: 
+    * [EACL imitation learning tutorail](https://sheffieldnlp.github.io/ImitationLearningTutorialEACL2017/)
+    * [DAGGER](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf)
+    * [LOLS](https://arxiv.org/pdf/1502.02206.pdf)
+    * [A Dynamic Oracle for Arc-Eager Dependency Parsing](http://www.aclweb.org/anthology/C12-1059)
+    * [Noise Reduction and Targeted Exploration in Imitation Learning for Abstract Meaning Representation Parsing](http://aclweb.org/anthology/P16-1001)
+
 
 ### 5. Information Extraction
 
