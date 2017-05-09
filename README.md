@@ -41,7 +41,7 @@
 - Time: May 15, Monday, 4:30 - 5:30 PM
 - Suggested reading: some papers from Regina's group
 	- [Learning to Win by Reading Manuals in a Monte-Carlo Framework](http://people.csail.mit.edu/regina/my_papers/civ11.pdf)
-	- [Language Understanding for Text-based Games using Deep Reinforcement Learning](http://people.csail.mit.edu/regina/my_papers/TG15.pdf)
+	- [Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning](http://people.csail.mit.edu/karthikn/assets/pdf/rlie16.pdf)
 
 
 ### 6. Machine Translation and Language Modeling
