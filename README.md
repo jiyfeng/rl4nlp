@@ -49,6 +49,8 @@
 - Max
 - Time: May 22, Monday, 4:30 - 5:30 PM
 - Suggested reading:
+    - [Don’t Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation](https://www.umiacs.umd.edu/~jbg/docs/2014_emnlp_simtrans.pdf)
+    - [Dual Learning for Machine Translation](https://papers.nips.cc/paper/6469-dual-learning-for-machine-translation.pdf)
 
 ### 7. Semantic Parsing
 
