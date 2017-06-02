@@ -52,9 +52,11 @@
     - [Don’t Until the Final Verb Wait: Reinforcement Learning for Simultaneous Machine Translation](https://www.umiacs.umd.edu/~jbg/docs/2014_emnlp_simtrans.pdf)
     - [Dual Learning for Machine Translation](https://papers.nips.cc/paper/6469-dual-learning-for-machine-translation.pdf)
 
-### 7. Semantic Parsing
+### 7. Summarization and Question Answering
 
 - Mandar
-- Time: May 29, Monday, 4:30 - 5:30 PM
+- Time: Jun 5, Monday, 4:30 - 5:30 PM
 - Suggested reading:
+    - [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf)
+    - [Coarse-to-Fine Question Answering for Long Documents](http://homes.cs.washington.edu/~eunsol/papers/acl17eunsol.pdf)
 
