@@ -20,12 +20,12 @@
 	- define the learning agent's way of behaving at a given time
 	- the **core** of an agent in the sense that it alone is sufficient to determine behavior
 - A reward signal
-	- define the goal in a RL problem by determining what are the good and bad events for the agent
+	- define the goal in an RL problem by determining what are the good and bad events for the agent
 	- the agent's sole objective is to maximize the **total** reward it receives over the long run
 	- the process that generates the reward signal must be unalterable by the agent
 - A value function
 	- specify what is good in the long run
-	- the *value* of a state is the total amount of reward an angent can **expect** to accumulate over the future, starting from that state
+	- the *value* of a state is the total amount of reward an agent can **expect** to accumulate over the future, starting from that state
 	- a value of the prediction of rewards in a long run given the current state
 - A model of the environmnet (optional)
 
