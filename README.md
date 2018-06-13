@@ -15,20 +15,20 @@
 
 - Chenhao
 - Time: April 24, Monday, 4:30 - 5:30 PM
-- Reading: [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Chap 04 and 05
+- Reading: [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) Chap 04 and 05
 
 ### 3. Policy Gradient Methods
 
 - Ji
 - Time: May 1, Monday, 4:30 - 5:30 PM
-- Reading: [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2016sep.pdf) Chap 13
+- Reading: [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) Chap 13
 
 ### 4. POS tagging and Syntactic Parsing
 
 - Yijia
 - Time: May 8, Monday, 4:30 - 5:30 PM
 - Suggested reading: 
-    * [EACL imitation learning tutorail](https://sheffieldnlp.github.io/ImitationLearningTutorialEACL2017/)
+    * [EACL imitation learning tutorial](https://sheffieldnlp.github.io/ImitationLearningTutorialEACL2017/)
     * [DAGGER](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf)
     * [LOLS](https://arxiv.org/pdf/1502.02206.pdf)
     * [A Dynamic Oracle for Arc-Eager Dependency Parsing](http://www.aclweb.org/anthology/C12-1059)
